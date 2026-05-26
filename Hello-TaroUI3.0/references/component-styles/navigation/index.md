@@ -70,7 +70,7 @@ Use Index for long scrollable lists that need quick jump-to-section navigation v
 |---|---|
 | Background | `Branding-1` |
 | Width | 20px |
-| Border-radius | 40px (full round) |
+| Border-radius | `radius-full` (full round) |
 | Padding | 1px vertical |
 | Font | `Mark/12-semibold` — PingFang SC, 12px, weight 600, line-height 18px |
 | Color | `surface-primary` |
@@ -81,7 +81,7 @@ Use Index for long scrollable lists that need quick jump-to-section navigation v
 |---|---|
 | Size | 48×48px |
 | Background | `border-default` |
-| Border-radius | 40px (full round) |
+| Border-radius | `radius-full` (full round) |
 | Position | Right 28px from the index bar (to the left of the active item) |
 | Font | `Headline/20-semibold` — PingFang SC, 20px, weight 600, line-height 28px |
 | Color | `text-inverse` |

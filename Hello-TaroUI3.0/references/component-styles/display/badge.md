@@ -151,7 +151,7 @@ Note: the bordered variant uses asymmetric 8/10/10/1 radii (not uniform increase
 | Token | Use |
 |---|---|
 | `Color/error/error-1` | Badge background (all types) |
-| `Color/icon&text/text-icon-color-text-inverse` `surface-primary` | Badge text (number, ribbon) |
+| `Color/icon&text/text-icon-color-text-inverse` | Badge text (number, ribbon) |
 | `Color/neutral/surface-primary-bg-color-container` | Ribbon badge white border |
 
 ## Positioning Rules

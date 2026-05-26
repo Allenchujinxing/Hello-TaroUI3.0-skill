@@ -287,7 +287,7 @@ Input fields that trigger a picker/selector instead of keyboard input. The conte
 | `Color/icon&text/text-secondary-tex-icon-color-secondary` | Secondary text |
 | `Color/icon&text/text-placeholder-text-icon-color-placeholder` | Placeholder text, helper text |
 | `Color/icon&text/text-disabled-text-icon-color-disable` | Disabled text |
-| `Color/icon&text/text-icon-color-text-inverse` `surface-primary` | Button text on brand background |
+| `Color/icon&text/text-icon-color-text-inverse` | Button text on brand background |
 | `Color/error/error-1` | Required indicator, error helper text |
 | `Color/warning/warning-1` | Warning helper text |
 | `Color/success/success-1` | Success helper text |

@@ -77,18 +77,18 @@ Use NavBar for page-level navigation at the top of the screen. It sits below the
 
 | Theme | Background | Title color | Icon color |
 |---|---|---|
-| `text-inverse` `surface-primary` | `text-primary` | `text-primary` |
-| `color` `Branding-1` | `text-inverse` | `text-inverse` |
-| `dark` | Dark background | `text-inverse` | `text-inverse` |
+| `surface-primary` | `text-primary` | `text-primary` |
+| `Branding-1` | `text-inverse` | `text-inverse` |
+| Dark background | `text-inverse` | `text-inverse` |
 
 ### Token mapping
 
 | Token | Use |
 |---|---|
-| `Color/neutral/surface-primary-bg-color-container` `text-inverse` | White theme background |
-| `Color/brand/branding-1` `Branding-1` | Color theme background |
-| `Color/icon&text/text-primary-text-icon-color-default` `text-primary` | White theme title and icons |
-| `Color/icon&text/text-icon-color-text-inverse` `text-inverse` | Color/dark theme title and icons |
+| `surface-primary` | White theme background |
+| `Branding-1` | Color theme background |
+| `text-primary` | White theme title and icons |
+| `text-inverse` | Color/dark theme title and icons |
 
 ## Stroke (Bottom Divider)
 

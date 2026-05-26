@@ -153,8 +153,7 @@ Tags support the following states:
 | `Color/success/success-0` | Success full bg, Success text |
 | `Color/success/success-2` | Success line border |
 | `Color/success/success-3` | Success light bg |
-| `Color/icon&text/text-icon-color-text-inverse` `surface-primary` | White text on full-color tags |
-| `Color/neutral/surface-primary-bg-color-container` | White text (alternate token) |
+| `Color/icon&text/text-icon-color-text-inverse` | White text on full-color tags |
 
 ## Do Not Infer
 

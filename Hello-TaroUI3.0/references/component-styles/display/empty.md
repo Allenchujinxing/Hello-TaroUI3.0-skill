@@ -201,7 +201,7 @@ empty-<scene>-<size>.png
 | `text-placeholder` | 正文/描述文字 |
 | `Branding-1` | 按钮背景 |
 | `Branding-0` | 按钮按压态 |
-| `text-inverse` `surface-primary` | 按钮文字 |
+| `text-inverse` | 按钮文字 |
 | `surface-primary` | 页面/模块背景 |
 
 ## State Semantics And Copy

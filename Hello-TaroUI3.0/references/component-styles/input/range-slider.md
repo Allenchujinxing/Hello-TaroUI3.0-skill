@@ -97,9 +97,9 @@ A header row above the track shows a hint label and the current selected value. 
 |---|---|
 | Size | 24×24px (Variant 1) / 28×28px (Variant 2) |
 | Shape | Circle (`border-radius: 50%` / `radius-full`) |
-| Background | `text-inverse` |
+| Background | `surface-primary` |
 | Border | 2px solid `Branding-1` |
-| Shadow | `Shadow/Shadow-1`（见 `references/HelloCN.md` Shadow 体系） |
+| Shadow | `shadow-thumb` |
 | Position | Absolute, centered vertically on track, `transform: translate(-50%, -50%)` |
 | Cursor | `grab` (default), `grabbing` (while dragging) |
 | Z-index | 2 (above track) |
@@ -159,7 +159,7 @@ A header row above the track shows a hint label and the current selected value. 
 
 - Do not change the thumb sizes: 24px for Variant 1, 28px for Variant 2.
 - Do not remove the grip lines inside the thumb; they are a key visual indicator.
-- Do not use a different shadow than `Shadow/Shadow-1` on the thumb.
+- Do not use a different shadow than `shadow-thumb` on the thumb.
 - Do not place value labels both at the ends and below the track simultaneously — use one variant or the other.
 - Do not allow thumbs to overlap or cross in dual-thumb mode.
 - Do not add tick marks or step indicators on the track unless explicitly designed.

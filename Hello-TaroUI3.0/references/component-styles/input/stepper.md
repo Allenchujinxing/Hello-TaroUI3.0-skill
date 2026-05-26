@@ -59,7 +59,7 @@ Three-part horizontal layout: minus button | value display | plus button, connec
 
 | Property | Value |
 |---|---|
-| Background | `text-inverse` |
+| Background | `surface-primary` |
 | Border radius | `radius-md` (overall) |
 | Layout | Flex row, items center, no gap (buttons share borders with value) |
 

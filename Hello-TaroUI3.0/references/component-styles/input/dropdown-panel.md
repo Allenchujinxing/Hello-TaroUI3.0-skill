@@ -53,7 +53,7 @@ This file records the Figma visual style only.
 | 按钮 | 背景 | 文字 | 圆角 | 高度 |
 |---|---|---|---|
 | 重置 | Branding-3 | 16px / semibold 600 / Branding-1 | 8px | 40px |
-| 确认 | Branding-1 | 16px / semibold 600 / text-inverse `surface-primary` | 8px | 40px |
+| 确认 | Branding-1 | 16px / semibold 600 / `text-inverse` | 8px | 40px |
 
 **按钮支持展示已选数量或不显示**，如"确认(3)"，根据业务需求决定。
 
@@ -134,18 +134,16 @@ This file records the Figma visual style only.
 | Property | Value |
 |---|---|
 | 列数 | 3 列 |
-| 列间距 | 8px |
+| 列间距 | 9px |
 | 行间距 | 8px |
-| 面板左右内边距 | 固定 12px |
-| 单行最大数量 | 3 个选项 |
-| 单项宽度 | 基于屏幕总宽度倒算：`(屏幕宽度 - 12px × 2 - 8px × 2) / 3`，390px 设计稿约 116.67px |
+| 面板内边距 | 12px |
 
 ### 网格项
 
 | Property | Value |
 |---|---|
 | 高度 | 40px（单行）或自适应（双行） |
-| 宽度 | 按单项宽度公式自适应，不硬编码固定宽度 |
+| 宽度 | 等分三列 |
 | 背景（默认） | surface-page |
 | 背景（选中） | Branding-3 |
 | 边框（默认） | 1px solid transparent |

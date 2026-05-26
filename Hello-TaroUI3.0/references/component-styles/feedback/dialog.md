@@ -102,7 +102,7 @@ This file records the Figma visual style only.
 | 高度 | 48px |
 | 宽度 | 264px（容器宽 304 - 左右 20px padding） |
 | Background | `surface-page` |
-| 圆角 | `radius-xl`（模块内圆角） |
+| 圆角 | `radius-xl`（模块级圆角） |
 | 字体 | 16px / regular 400 / `text-primary` / line-height 24px |
 | Placeholder | 16px / regular 400 / `text-placeholder` |
 | Padding | 12px 内边距 |
@@ -125,7 +125,7 @@ This file records the Figma visual style only.
 |---|---|
 | 宽度 | 264px（容器宽 - 左右 20px） |
 | 高度 | 198px |
-| 圆角 | `radius-xl`（模块内圆角） |
+| 圆角 | `radius-xl`（模块级圆角） |
 | Padding | 20px（距容器边缘） |
 | 位置 | 内容区内，可在标题上方或下方 |
 

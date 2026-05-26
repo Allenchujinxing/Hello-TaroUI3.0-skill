@@ -107,7 +107,7 @@ This file records the Figma visual style only.
 | Property | Value |
 |---|---|
 | 背景 | `surface-primary` |
-| 圆角 | 遵循圆角体系（模块级 `radius-card`，默认 `radius-xl`） |
+| 圆角 | 遵循圆角体系，默认 `radius-xl`（模块级） |
 | 边框 | 可选，0.5px solid `border-divider` |
 | 面板间分割 | 0.5px solid `border-divider`，左侧缩进 16px |
 

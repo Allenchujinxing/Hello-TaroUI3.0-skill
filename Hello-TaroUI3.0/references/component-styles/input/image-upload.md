@@ -104,7 +104,7 @@ ImagePicker 由以下部分组成：
 |---|---|
 | 标题与副标题 | 4px（标题区 flex column gap） |
 | 标题区与图片网格 | 8px（容器 flex column gap） |
-| 容器内边距 | 上下 16px，左右 `space-page-margin` |
+| 容器内边距 | 上下 16px，左右 12px |
 | 照片之间间距 | 8px（水平和垂直） |
 
 ## Layout 组件布局
@@ -126,8 +126,8 @@ ImagePicker 由以下部分组成：
 | Property | Value |
 |---|---|
 | 宽度 | 100%（设计稿 390px） |
-| 背景色 | `text-inverse` |
-| 内边距 | 上下 16px，左右 `space-page-margin` |
+| 背景色 | `surface-primary` |
+| 内边距 | 上下 16px，左右 12px |
 | 布局 | Flex column, 8px gap |
 | 每行布局 | Flex row, 8px gap, items start-aligned |
 | 每行最多 | 4 项 |

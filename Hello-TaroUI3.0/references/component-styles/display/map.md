@@ -40,7 +40,7 @@ This file records the Figma visual style only.
 |---|---|
 | 容器宽度 | 36px |
 | 容器背景 | `surface-primary` |
-| 容器圆角 | 8px |
+| 容器圆角 | `radius-xl` |
 | 容器投影 | `shadow-2` |
 | 图标尺寸 | 24×24px |
 | 图标颜色 | `text-primary` |

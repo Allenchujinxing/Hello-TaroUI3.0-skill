@@ -135,8 +135,8 @@ Gradient masks at top and bottom of the roller area to create the drum-roller fa
 
 | Mask | Property |
 |---|---|
-| Top mask | Height 40px, gradient from `text-inverse` to `transparent`, positioned at top |
-| Bottom mask | Height 40px, gradient from `text-inverse` to `transparent`, rotated 180° (fade from bottom) |
+| Top mask | Height 48px, gradient from `surface-primary` to `transparent`, positioned at top |
+| Bottom mask | Height 48px, gradient from `surface-primary` to `transparent`, rotated 180° (fade from bottom) |
 | Position | Absolute, left 16px, right 16px |
 
 ## Bottom Toolbar
@@ -154,8 +154,8 @@ Used when `buttonLayout = "Bottom"` or in the special combination layout.
 
 | Button | Background | Text Color | Font | Border Radius | Min Width | Padding |
 |---|---|---|---|---|
-| Cancel (取消) | `Branding-3` `Branding-1` | `Title/18-semibold` 18px, weight 600, line-height 26px | 10px | 112px | 11px 20px |
-| Confirm (确认) | `Branding-1` `text-inverse` | `Title/18-semibold` 18px, weight 600, line-height 26px | 10px | 112px | 11px 20px |
+| Cancel (取消) | `Branding-3` | `Title/18-semibold` 18px, weight 600, line-height 26px, `Branding-1` | `radius-2xl` | 112px | 11px 20px |
+| Confirm (确认) | `Branding-1` | `Title/18-semibold` 18px, weight 600, line-height 26px, `text-inverse` | `radius-2xl` | 112px | 11px 20px |
 | Both | Flex 1 (equal width) | | | | | |
 
 ### Single-Button Layout (确认 only)

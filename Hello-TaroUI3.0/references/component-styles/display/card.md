@@ -48,8 +48,8 @@ This file records the component style spec for mobile.
 | Property | Value |
 |---|---|
 | 宽度 | 撑满容器（通常 366px = 390 - 12×2 边距） |
-| 内边距 (body) | 12px |
-| Header 内边距 | 12px |
+| 内边距 (body) | `space-card-padding`（12px） |
+| Header 内边距 | `space-card-padding`（12px） |
 | 圆角 | 遵循 references/HelloCN.md 圆角体系（见下方） |
 | 封面图圆角 | 顶部跟随卡片圆角，底部 0 |
 
@@ -75,7 +75,7 @@ This file records the component style spec for mobile.
 
 | Property | Value |
 |---|---|
-| Background | `text-inverse` |
+| Background | `surface-primary` |
 | Border | 0.5px solid `border-divider` |
 | Border-radius | `radius-xl`（默认，遵循圆角体系） |
 | Shadow | none |
@@ -84,7 +84,7 @@ This file records the component style spec for mobile.
 
 | Property | Value |
 |---|---|
-| Background | `text-inverse` |
+| Background | `surface-primary` |
 | Border | none |
 | Border-radius | `radius-xl`（默认，遵循圆角体系） |
 | Shadow | none |
@@ -109,7 +109,7 @@ This file records the component style spec for mobile.
 | Property | Value |
 |---|---|
 | 高度 | 自适应，最小 44px |
-| Padding | 12px |
+| Padding | `space-card-padding`（12px） |
 | 标题字体 | 16px / semibold 600 / text-primary / line-height 24px |
 | Extra 字体 | 14px / regular 400 / Branding-1 / line-height 22px |
 | 分割线 | 底部 0.5px solid `border-divider`（可选） |
@@ -119,7 +119,7 @@ This file records the component style spec for mobile.
 
 | Property | Value |
 |---|---|
-| Padding | 12px |
+| Padding | `space-card-padding`（12px） |
 | 字体 | 14px / regular 400 / text-secondary / line-height 22px |
 
 ## Cover 封面

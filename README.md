@@ -57,3 +57,7 @@ Hello-TaroUI3.0-skill/
 ## License
 
 MIT
+
+## 更新记录
+
+详见 [CHANGELOG.md](./CHANGELOG.md)。
