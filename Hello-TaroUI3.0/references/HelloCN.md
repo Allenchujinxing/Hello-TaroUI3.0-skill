@@ -182,7 +182,7 @@ Hello-CN 是哈啰国内业务移动端视觉 token 系统，覆盖 C 端用户�
 |-------|-----|------|
 | space-page-margin | 12px | 页面左右外边距 |
 | space-module-gap | 12px | 模块纵向间距 |
-| space-card-padding | 16px | 卡片内边距 |
+| space-card-padding | 12px | 卡片内边距 |
 | space-section-gap | 24px | 大区块间距 |
 | space-gutter | 8px | 列间距 |
 
