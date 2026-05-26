@@ -6,7 +6,7 @@
 
 ## 视觉 Token 声明
 
-图标颜色和尺寸引用自 `references/design.md` 的 Icon 规范章节。iconfont Symbol 脚本链接和业务图标清单属于项目资产层，不同项目可替换为各自的 iconfont 库，组件引用方式不变。
+图标颜色和尺寸引用自 `references/HelloCN.md` 的 Icon 规范章节。iconfont Symbol 脚本链接和业务图标清单属于项目资产层，不同项目可替换为各自的 iconfont 库，组件引用方式不变。
 
 ## 接入方式
 
@@ -40,7 +40,7 @@
 
 ## 图标尺寸规范
 
-引用自 `references/design.md` 第 8 章 Icon 图标规范：
+引用自 `references/HelloCN.md` 第 8 章 Icon 图标规范：
 
 | 尺寸 | 用途 |
 |---|---|

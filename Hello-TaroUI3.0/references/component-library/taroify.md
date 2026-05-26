@@ -10,7 +10,7 @@ Source family: Taroify, a Taro mobile UI component library inspired by Vant.
 2. Pick the relevant component families below.
 3. Build HTML/CSS/JS that uses the selected component's expected mobile structure, state behavior, and key interactions.
 4. If matching component style files exist in `references/component-styles/`, use them for visual styling.
-5. If `design.md` exists and the component style source is missing a visual detail, bind that missing detail to `design.md` tokens.
+5. If `HelloCN.md` exists and the component style source is missing a visual detail, bind that missing detail to `HelloCN.md` tokens.
 6. Include visible states in the prototype when useful: default, active, selected, disabled, loading, empty, error, and success.
 
 ## Visual Boundary
@@ -19,7 +19,7 @@ This file does not define component visuals. Use it only for interaction behavio
 
 - If a matching component file exists in `references/component-styles/`, that file controls dimensions, spacing, typography, color, radius, borders, dividers, shadows, icon slots, and visual states.
 - If a selected visual component has no Taroify equivalent, do not force a mapping. Use the component style file and product/page context directly.
-- If a visual detail is missing from the component style file, use `references/design.md` as the fallback token source.
+- If a visual detail is missing from the component style file, use `references/HelloCN.md` as the fallback token source.
 - Component icon slots are replaceable only when the relevant style file or design token rules define the slot, icon source, size, stroke, color, and alignment.
 
 ## Page Shell

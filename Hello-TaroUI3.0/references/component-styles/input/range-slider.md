@@ -13,7 +13,7 @@ Use Range Slider for selecting a numeric value, a range interval, or a discrete 
 
 ## 视觉 Token 声明
 
-本文件中的颜色、圆角、间距等视觉属性引用自搭配的 Design 规范文件（如 `references/design.md`）。当切换到其他视觉系统时（如 HelloRide、HelloSaaS），对应 token 的色值会变化，组件结构和行为不变。
+本文件中的颜色、圆角、间距等视觉属性引用自搭配的 Design 规范文件（如 `references/HelloCN.md`）。当切换到其他视觉系统时（如 HelloRide、HelloSaaS），对应 token 的色值会变化，组件结构和行为不变。
 
 
 ## Anatomy
@@ -99,7 +99,7 @@ A header row above the track shows a hint label and the current selected value. 
 | Shape | Circle (`border-radius: 50%` / `radius-full`) |
 | Background | `text-inverse` |
 | Border | 2px solid `Branding-1` |
-| Shadow | `Shadow/Shadow-1`（见 `references/design.md` Shadow 体系） |
+| Shadow | `Shadow/Shadow-1`（见 `references/HelloCN.md` Shadow 体系） |
 | Position | Absolute, centered vertically on track, `transform: translate(-50%, -50%)` |
 | Cursor | `grab` (default), `grabbing` (while dragging) |
 | Z-index | 2 (above track) |

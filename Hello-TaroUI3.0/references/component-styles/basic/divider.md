@@ -12,7 +12,7 @@ Use Divider to separate page sections, content blocks, rows, paragraphs, inline 
 
 ## 视觉 Token 声明
 
-本文件中的颜色、圆角、间距等视觉属性引用自搭配的 Design 规范文件（如 `references/design.md`）。当切换到其他视觉系统时（如 HelloRide、HelloSaaS），对应 token 的色值会变化，组件结构和行为不变。
+本文件中的颜色、圆角、间距等视觉属性引用自搭配的 Design 规范文件（如 `references/HelloCN.md`）。当切换到其他视觉系统时（如 HelloRide、HelloSaaS），对应 token 的色值会变化，组件结构和行为不变。
  Use page structure and Taroify semantics to decide whether a divider should be horizontal, vertical, solid, or dashed.
 
 ## When To Use
@@ -36,7 +36,7 @@ Do not use Divider as decorative decoration. It should clarify grouping, hierarc
 |---|---|
 | `Color/neutral/border-divider-component-stroke` `border-divider` | Divider stroke color |
 
-This matches the `border-divider` divider token in `design.md`.
+This matches the `border-divider` divider token in `HelloCN.md`.
 
 ## Stroke
 

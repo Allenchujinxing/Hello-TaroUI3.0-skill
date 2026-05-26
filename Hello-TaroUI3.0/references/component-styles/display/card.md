@@ -15,7 +15,7 @@ This file records the component style spec for mobile.
 
 ## 视觉 Token 声明
 
-本文件中的颜色、圆角、间距等视觉属性引用自搭配的 Design 规范文件（如 `references/design.md`）。当切换到其他视觉系统时（如 HelloRide、HelloSaaS），对应 token 的色值会变化，组件结构和行为不变。
+本文件中的颜色、圆角、间距等视觉属性引用自搭配的 Design 规范文件（如 `references/HelloCN.md`）。当切换到其他视觉系统时（如 HelloRide、HelloSaaS），对应 token 的色值会变化，组件结构和行为不变。
 
 
 ## 组件结构
@@ -50,12 +50,12 @@ This file records the component style spec for mobile.
 | 宽度 | 撑满容器（通常 366px = 390 - 12×2 边距） |
 | 内边距 (body) | 12px |
 | Header 内边距 | 12px |
-| 圆角 | 遵循 references/design.md 圆角体系（见下方） |
+| 圆角 | 遵循 references/HelloCN.md 圆角体系（见下方） |
 | 封面图圆角 | 顶部跟随卡片圆角，底部 0 |
 
 ## 圆角规则
 
-卡片圆角不是固定值，需遵循 `references/design.md` 的圆角梯度体系：
+卡片圆角不是固定值，需遵循 `references/HelloCN.md` 的圆角梯度体系：
 
 | 梯度 | 圆角 | 卡片场景 |
 |---|---|
@@ -212,4 +212,4 @@ This file records the component style spec for mobile.
 - 不要使用 Grid 网格卡片 — 移动端空间有限，用列表或双列替代。
 - 不要给卡片加 box-shadow — 设计规范中卡片通过背景色差异浮起，不用阴影。
 - 不要让卡片宽度固定 — 应撑满容器，响应式适配。
-- 不要随意指定圆角 — 遵循 references/design.md 圆角梯度体系（页面级 `radius-3xl` / 模块级 `radius-xl` / 模块内 `radius-md`），内层圆角不得大于外层。
+- 不要随意指定圆角 — 遵循 references/HelloCN.md 圆角梯度体系（页面级 `radius-3xl` / 模块级 `radius-xl` / 模块内 `radius-md`），内层圆角不得大于外层。
