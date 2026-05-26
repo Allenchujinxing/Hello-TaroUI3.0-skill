@@ -202,7 +202,7 @@ This file records the component style spec for mobile.
 | `title` | string/node | — | 标题 |
 | `extra` | string/node | — | 右上角操作区 |
 | `actions` | node[] | — | 底部操作组 |
-| `bodyPadding` | number | 16 | 内容区内边距 |
+| `bodyPadding` | number | 12 | 内容区内边距 |
 | `borderRadius` | number | 8 | 卡片圆角，遵循圆角梯度体系（8/12/4） |
 
 ## Do Not Infer
