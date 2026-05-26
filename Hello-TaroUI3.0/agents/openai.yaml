@@ -1,0 +1,4 @@
+name: Hello-TaroUI3.0
+display_name: "Hello-TaroUI 3.0"
+short_description: "哈啰移动端组件、交互和 token 设计系统"
+default_prompt: "使用 $Hello-TaroUI3.0 按设计系统校准这个移动端页面的组件、样式和交互。"
