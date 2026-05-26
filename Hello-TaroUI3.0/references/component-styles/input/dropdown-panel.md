@@ -134,16 +134,18 @@ This file records the Figma visual style only.
 | Property | Value |
 |---|---|
 | 列数 | 3 列 |
-| 列间距 | 9px |
+| 列间距 | 8px |
 | 行间距 | 8px |
-| 面板内边距 | 12px |
+| 面板左右内边距 | 固定 12px |
+| 单行最大数量 | 3 个选项 |
+| 单项宽度 | 基于屏幕总宽度倒算：`(屏幕宽度 - 12px × 2 - 8px × 2) / 3`，390px 设计稿约 116.67px |
 
 ### 网格项
 
 | Property | Value |
 |---|---|
 | 高度 | 40px（单行）或自适应（双行） |
-| 宽度 | 等分三列 |
+| 宽度 | 按单项宽度公式自适应，不硬编码固定宽度 |
 | 背景（默认） | surface-page |
 | 背景（选中） | Branding-3 |
 | 边框（默认） | 1px solid transparent |

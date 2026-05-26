@@ -129,7 +129,7 @@ This file records the Figma visual style only.
 | 状态栏 | 44px | 44px |
 | 导航栏 | 44px | 88px |
 | 底部操作区（含安全区） | 106px | — |
-| 可用内容区 | 845 - 88 - 106 = 651px | — |
+| 可用内容区 | 844 - 88 - 106 = 650px | — |
 
 ---
 
